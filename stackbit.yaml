@@ -392,9 +392,6 @@ models:
       - type: string
         name: price
         label: Price
-      - type: button
-        name: size
-        label: Size
       - type: number
         name: order
         label: Order
