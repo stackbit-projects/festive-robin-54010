@@ -393,7 +393,7 @@ models:
         name: price
         label: Price
       - type: boolean
-        Name
+        name: 
       - type: number
         name: order
         label: Order
