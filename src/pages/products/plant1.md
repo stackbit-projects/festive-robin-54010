@@ -38,7 +38,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: product
-size: false
+size: Small
 ---
 
 # Nulla suscipit
