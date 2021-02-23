@@ -392,7 +392,7 @@ models:
       - type: string
         name: price
         label: Price
-      - type: boolean
+      - type: button
         name: size
         label: Size
       - type: number
