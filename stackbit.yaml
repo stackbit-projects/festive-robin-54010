@@ -394,7 +394,7 @@ models:
         label: Price
       - type: boolean
         name: size
-        Label
+        label: Size
       - type: number
         name: order
         label: Order
